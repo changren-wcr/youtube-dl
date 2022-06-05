@@ -1098,6 +1098,7 @@ from .shared import (
     VivoIE,
 )
 from .showroomlive import ShowRoomLiveIE
+from .shuiguopai import ShuiGuoPaiIE
 from .simplecast import (
     SimplecastIE,
     SimplecastEpisodeIE,
